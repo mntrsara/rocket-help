@@ -30,7 +30,7 @@
 **Clone o projeto e acesse a pasta**
 
 ```bash
-$ git clone https://github.com/mntrsara/RocketHelp && cd rocket_help
+$ git clone https://github.com/mntrsara/rocket-help && cd rocket_help
 ```
 
 **Siga as etapas abaixo para instalar as dependências necessárias**
