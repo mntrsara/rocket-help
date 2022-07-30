@@ -6,7 +6,8 @@
   <a href="#-about-the-project">Sobre o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Começando</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-getting-started">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">Layout do projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 <h2 >
@@ -36,11 +37,10 @@ $ git clone https://github.com/mntrsara/rocket-help && cd rocket_help
 **Siga as etapas abaixo para instalar as dependências necessárias**
 
 ```bash
-# Install the dependencies
+# Instale as dependências
 $ yarn
-# Be sure the file 'src/services/api.ts' have the IP to your API
-# Start the client
-$ yarn start
+# Iniciar o projeto
+$ expo start
 ```
 
 ## Como contribuir
@@ -48,17 +48,20 @@ $ yarn start
 **Siga os passos abaixo para clonar o repositório em sua máquina**
 
 ```bash
-# Clone your fork
+# Clone seu garfo
 $ git clone your-fork-url && cd rocket_help
-# Create a branch with your feature
+# Crie uma ramificação com seu recurso
 $ git checkout -b feature
-# Make the commit with your changes
+# Faça o commit com suas alterações
 $ git commit -m 'First Commit'
-# Send the code to your remote branch
+# Envie o código para o sua ramificação remota
 $ git push origin my-feature
 ```
 
 Depois que sua solicitação pull for mesclada, você poderá excluir sua ramificação
+
+## Layout do projeto
+- [Figma](https://www.figma.com/file/minKSScbEOylwxsJjeuJwS/Rocket-Help---Ignite-Lab-(Community)?node-id=37%3A6)
 
 ## License
 
